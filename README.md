@@ -47,7 +47,7 @@
 ## 🚀 Инструкция по сборке:
 
 ### 1. Клонируйте репозиторий
-git clone git@github.com:nikita-ios/TestForPatres.git
+git clone github.com/butkoNik/TestForPatres
 cd TestForPatres
 
 ### 2. Установите зависимости
